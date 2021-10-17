@@ -13,4 +13,4 @@ pip install -r requirements.txt
 
 ### Demonstration
 
-![gif](https://i.imgur.com/OnPovAD.gif)
+![gif](https://i.imgur.com/q92KJ8k.gif)
